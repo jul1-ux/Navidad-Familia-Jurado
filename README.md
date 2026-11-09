@@ -1,2 +1,0 @@
-# Navidad-Familia-Jurado
-Bienvenidos
