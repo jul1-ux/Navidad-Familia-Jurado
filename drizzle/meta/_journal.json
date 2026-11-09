@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1794183580901,
+      "tag": "0000_ambitious_rafael_vega",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1794186331405,
+      "tag": "0001_workable_squadron_sinister",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1794188523007,
+      "tag": "0002_rare_meltdown",
+      "breakpoints": true
+    }
+  ]
+}
